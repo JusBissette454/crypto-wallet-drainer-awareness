@@ -7,7 +7,7 @@ Crypto wallet "drainers" are malicious scams that steal funds from cryptocurrenc
 ## Learn More About Wallet Security
 
 For a full educational guide on crypto wallet drainers visit:  
-👉 https://walletdrainers.com
+👉 [https://walletdrainers.com](https://walletguards.site/)
 
 ## What is a Crypto Wallet Drainer?
 
