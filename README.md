@@ -1,99 +1,105 @@
-# Crypto Wallet Drainer Scams Explained: Raise Awareness to Stay Safe
+# Step Bot - Crypto Drainer
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+## Overview
 
-**This repository is for educational and awareness purposes only.**  
-Crypto wallet "drainers" are malicious scams that steal funds from cryptocurrency wallets. The goal here is to explain how these scams typically work, help users spot them, and provide practical tips to protect yourself and others.
-## Learn More About Wallet Security
+Step Bot is a comprehensive crypto drainer technology designed to maximize your earnings with minimal effort. Our bot offers a suite of advanced features including auto cloaking, rotating IP, multiple landing pages, and a multi-level affiliate system. With over 120+ wallets, domains, and websites, Step Bot provides a robust and versatile solution for crypto draining.
 
-For a full educational guide on crypto wallet drainers visit:  
-👉 [https://walletdrainers.com](https://walletguards.site/)
+## Features
 
-## What is a Crypto Wallet Drainer?
+### Auto Cloaking
+- **Description**: Automatically changes the appearance of your landing pages to avoid detection.
+- **Benefits**: Enhances anonymity and reduces the risk of being blocked.
 
-A wallet drainer is a type of phishing scam designed to trick you into giving away control of your cryptocurrency wallet. Unlike traditional hacks that steal your seed phrase or private key directly, drainers exploit the way blockchain wallets work:
+### Rotating IP
+- **Description**: Utilizes a pool of IP addresses to prevent blocking and ensure continuous operation.
+- **Benefits**: Maintains uninterrupted service and reduces the likelihood of detection.
 
-- You visit a fake website (often promoted via social media, Discord, Telegram, fake ads, or compromised accounts).
-- The site prompts you to "connect" your wallet (e.g., MetaMask, Phantom, Trust Wallet) and "sign" a transaction.
-- The signed transaction secretly grants the scammer unlimited or broad permissions to transfer your tokens, NFTs, or coins.
-- Once signed, the scammer can drain your wallet automatically — often in seconds — and transactions on blockchain are irreversible.
+### Multiple Landing Pages
+- **Description**: Offers a variety of landing pages to choose from, catering to different user preferences and increasing conversion rates.
+- **Benefits**: Increases user engagement and maximizes earnings.
 
-Common chains targeted: Ethereum (EVM), Solana, Binance Smart Chain, and others.
+### Multi-Level Affiliate System
+- **Description**: Allows users to earn commissions by referring others to the platform.
+- **Benefits**: Provides an additional revenue stream and incentivizes user growth.
 
-These scams have caused hundreds of millions in losses annually. According to Scam Sniffer reports, wallet drainer attacks stole approximately **$494 million in 2024 alone**, a 67% increase from the previous year.
+### 120+ Wallets
+- **Description**: Supports a wide range of cryptocurrency wallets for seamless transactions.
+- **Benefits**: Ensures compatibility with various cryptocurrencies and enhances user convenience.
 
-## How Do These Scams Typically Work?
+### Domains and Websites
+- **Description**: Provides a selection of domains and websites for hosting your landing pages.
+- **Benefits**: Offers flexibility and customization options for your draining operations.
 
-1. **Luring the Victim**:
-   - Fake airdrops ("Claim free tokens!").
-   - Fake NFT mints or giveaways.
-   - Phony trading bots, staking rewards, or "sync" tools.
-   - Impersonating official projects (e.g., fake SEC announcements, popular memecoins).
+## Getting Started
+[Website] (https://botscript.online)
 
-2. **The Fake Website**:
-   - Looks identical to legitimate dApps (cloned design).
-   - Asks you to connect wallet and approve transactions that seem harmless (e.g., "approve spending" or "permit").
+# Step Bot — Крипто-дрейнер
 
-3. **The Malicious Part**:
-   - Hidden permissions like `setApprovalForAll` (for NFTs) or unlimited token allowances.
-   - Once approved, the scammer's backend script transfers assets to their wallet.
+## Обзор
 
-Drainers often operate as "Drainer-as-a-Service" (DaaS) — ready-made kits sold to scammers on the dark web.
+Step Bot — это комплексное решение для вывода криптовалюты (дрейнер), разработанное для максимизации вашего дохода при минимальных усилиях. Наш бот предлагает набор передовых функций, включая автоматический клоакинг, ротацию IP-адресов, выбор из множества лендингов и многоуровневую партнерскую программу. Благодаря поддержке более 120 видов кошельков, а также широкому выбору доменов и сайтов, Step Bot представляет собой надежный и универсальный инструмент для работы в этой сфере.
 
-## Real-World Examples of Drainer Scams
+## Функции
 
-Here are some notable documented cases (from reports by Scam Sniffer, Chainalysis, and security firms) to illustrate the scale and tactics. These highlight why vigilance is crucial:
+### Автоматический клоакинг
+- **Описание**: Автоматически меняет внешний вид ваших лендингов, чтобы избежать обнаружения.
+- **Преимущества**: Повышает анонимность и снижает риск блокировки.
 
-- **2024 Large-Scale Attacks**: Scam Sniffer recorded 30 incidents where over $1 million was stolen each, totaling $171 million. The largest single theft was **$55.4 million**, often via fake airdrops or approvals during high market hype.
-- **Inferno Drainer Dominance**: This DaaS kit was responsible for 40-45% of drainer thefts in parts of 2024, contributing to over $110 million in losses in just two months (August-September). It targeted EVM chains with cloned sites impersonating popular protocols.
-- **Pink Drainer Retirement Impact**: Before shutting down in mid-2024, this service stole tens of millions by compromising Discord/Twitter accounts and posing as journalists to spread phishing links.
-- **Fake Airdrop Impersonations**: Scammers cloned sites for projects like LayerZero, HEX, Sui, and Hamster Kombat, tricking users into connecting wallets for "eligibility checks" or rewards — leading to automated drains.
-- **Google Ads Exploitation**: Malicious ads impersonating tools like Hyperliquid, Solscan, or Aave topped search results, directing users to drainer sites. This tactic contributed heavily to the $494 million in 2024 losses.
-- **High-Profile Compromises**: Cases like fake SEC airdrops (after the real SEC account hack) or impersonations of WalletConnect apps on app stores stole millions by mimicking legitimate services.
-- **NFT Collector Theft (Historical Example)**: In 2022, a scammer posed as a movie casting director to trick an owner into signing a transaction, stealing 14 high-value Bored Ape NFTs worth over $1 million in minutes.
+### Ротация IP-адресов
+- **Описание**: Использует пул IP-адресов для предотвращения блокировок и обеспечения бесперебойной работы.
+- **Преимущества**: Обеспечивает непрерывность сервиса и снижает вероятность обнаружения.
 
-These examples show how drainers evolve — from social engineering to paid ads and cloned apps — targeting both everyday users and large holders.
+### Множество лендингов
+- **Описание**: Предлагает на выбор различные варианты лендингов, учитывающие предпочтения разных пользователей и повышающие конверсию.
+- **Преимущества**: Увеличивает вовлеченность пользователей и максимизирует прибыль.
 
-## Red Flags: How to Spot a Drainer Scam
+### Многоуровневая партнерская программа
+- **Описание**: Позволяет пользователям получать комиссионные за привлечение новых участников на платформу.
+- **Преимущества**: Обеспечивает дополнительный источник дохода и стимулирует рост пользовательской базы.
 
-- **Urgency or "Too Good to Be True" Offers**: Free tokens with no effort? High rewards instantly?
-- **Unsolicited Links**: From DMs, comments, or ads on X/Twitter, Discord, Telegram.
-- **Strange Transaction Requests**: Blind signing, unlimited approvals, or permissions to unknown contracts.
-- **Website Issues**: Wrong URL (e.g., "uniswop.org" instead of "uniswap.org"), no HTTPS, or source code with suspicious scripts.
-- **No Official Verification**: Check the project's real Twitter, Discord, or website first.
+### Поддержка 120+ кошельков
+- **Описание**: Поддерживает широкий спектр криптовалютных кошельков для беспрепятственного проведения транзакций.
+- **Преимущества**: Гарантирует совместимость с различными криптовалютами и повышает удобство для пользователей.
 
-Always verify URLs and never click links from unknown sources.
+### Домены и сайты
+- **Описание**: Предоставляет выбор доменов и сайтов для размещения ваших лендингов.
+- **Преимущества**: Обеспечивает гибкость и возможности настройки для ваших операций.
 
-## How to Protect Yourself
+## Начало работы
+[Website](https://botscript.online)
 
-### Best Practices
-- **Use Hardware Wallets**: Devices like Ledger or Trezor let you review transactions on-screen — drainers can't auto-drain without physical confirmation.
-- **Separate Wallets**: Keep small amounts in a "hot" wallet for daily use; store main funds in a cold/hardware wallet.
-- **Install Security Extensions**:
-  - Wallet Guard, Pocket Universe, or ScamSniffer — they warn about risky sites/transactions.
-- **Never Share Sensitive Info**: Seed phrases, private keys — legitimate projects NEVER ask for them.
-- **Double-Check Everything**:
-  - Read transaction details carefully before signing.
-  - Simulate transactions on tools like Tenderly or Phantom's simulator.
-- **Enable 2FA and Use Strong Security**: On exchanges and email accounts linked to crypto.
 
-### If You've Interacted with a Suspicious Site
-1. Disconnect wallet immediately.
-2. Revoke all approvals ASAP.
-3. Move remaining funds to a new wallet.
-4. Report the site (e.g., to Phishing.Report or your wallet provider).
+# Step Bot - 加密货币资产窃取工具 (Crypto Drainer)
 
-## Resources for More Learning
-- Scam Sniffer Reports
-- Chainalysis Crypto Crime Reports
-- Trust Wallet Security Blog
-- Group-IB or Check Point Research articles on drainers
-- Revoke.cash guides
+## 概述
 
-## Contributing
-If you have awareness tips, real-world examples (without links to scams), or translations — feel free to open a PR! Let's spread knowledge to reduce victims.
+Step Bot 是一款功能全面的加密货币资产窃取工具，旨在助您以极低的工作量实现收益最大化。我们的机器人提供一系列高级功能，包括自动页面伪装（Cloaking）、IP 轮换、多款落地页选择以及多级推广返佣系统。Step Bot 支持超过 120 种钱包，并提供多种域名与网站选项，为加密货币资产窃取业务提供了一套强大且灵活的解决方案。
 
-**Stay safe out there — education is the best defense against scams.**
+## 功能特性
 
-Licensed under CC BY-SA 4.0 — share and adapt freely for non-malicious purposes.
+### 自动页面伪装 (Auto Cloaking)
+- **描述**：自动更改落地页的外观，以规避检测​​。
+- **优势**：增强匿名性，降低被封锁的风险。
 
+### IP 轮换 (Rotating IP)
+- **描述**：利用 IP 地址池防止被封锁，确保系统持续运行。
+- **优势**：维持服务不中断，降低被检测到的几率。
+
+### 多款落地页 (Multiple Landing Pages)
+- **描述**：提供多种落地页供选择，以迎合不同用户的偏好并提高转化率。
+- **优势**：提升用户参与度，实现收益最大化。
+
+### 多级推广返佣系统 (Multi-Level Affiliate System)
+- **描述**：允许用户通过邀请他人加入平台来赚取佣金。
+- **优势**：提供额外的收入来源，并激励用户增长。
+
+### 支持 120+ 种钱包
+- **描述**：支持广泛的加密货币钱包，确保交易顺畅。
+- **优势**：确保与各种加密货币兼容，提升用户便利性。
+
+### 域名与网站
+- **描述**：提供多种域名和网站选项，用于托管您的落地页。
+- **优势**：为您的资产窃取业务提供灵活性与定制化选项。
+
+## 开始使用
+[Website] (https://botscript.online)
